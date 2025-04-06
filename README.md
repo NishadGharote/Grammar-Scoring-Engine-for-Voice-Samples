@@ -1,1 +1,2 @@
 # Grammar-Scoring-Engine-for-Voice-Samples
+This submission contains predicted arousal levels for 195 audio samples based on a regression model trained using spectral and temporal audio features. The predictions were generated using a neural network trained on preprocessed log-mel spectrogram features extracted from the dataset. The model was evaluated using Mean Squared Error (MSE) and fine-tuned for generalization. All filenames and formats match the competition requirements.
